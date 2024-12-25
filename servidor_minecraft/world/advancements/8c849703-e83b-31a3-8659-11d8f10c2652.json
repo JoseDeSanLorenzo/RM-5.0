@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-25 21:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-25 18:57:08 +0000"
@@ -296,6 +302,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-25 18:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-25 21:00:18 +0000"
     },
     "done": true
   },
@@ -705,6 +717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-25 21:00:18 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/pair_of_cannon_wheels": {
     "criteria": {
       "has_gunpowder": "2024-12-25 20:50:03 +0000"
@@ -756,6 +774,12 @@
   "create:recipes/create.palettes/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2024-12-25 20:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-25 21:00:18 +0000"
     },
     "done": true
   },
@@ -993,6 +1017,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-25 21:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-25 21:00:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-25 20:44:21 +0000"
@@ -1013,6 +1049,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-25 18:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-25 21:00:18 +0000"
     },
     "done": true
   },
@@ -1142,6 +1184,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-25 21:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-25 18:22:32 +0000"
@@ -1169,6 +1217,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-25 20:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-25 21:00:18 +0000"
     },
     "done": true
   },
@@ -1331,6 +1385,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-25 19:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-25 21:00:18 +0000"
     },
     "done": true
   },
@@ -1983,6 +2043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-25 21:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-25 18:17:00 +0000"
@@ -2088,6 +2154,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-12-25 18:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-25 21:00:18 +0000"
     },
     "done": true
   },
