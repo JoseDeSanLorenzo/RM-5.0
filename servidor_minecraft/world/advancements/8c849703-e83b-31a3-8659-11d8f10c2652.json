@@ -501,6 +501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-25 21:17:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2024-12-25 20:54:28 +0000"
@@ -1418,6 +1424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-25 21:18:36 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/wrought_iron_cannon_end": {
     "criteria": {
       "has_gunpowder": "2024-12-25 20:50:03 +0000"
@@ -1793,6 +1805,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-25 19:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-25 21:18:36 +0000"
     },
     "done": true
   },
