@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-25 21:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-25 20:45:37 +0000"
@@ -549,6 +555,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-25 18:55:28 +0000",
       "minecraft:skeleton": "2024-12-25 18:51:23 +0000",
+      "minecraft:spider": "2024-12-25 21:42:55 +0000",
       "minecraft:creeper": "2024-12-25 20:50:02 +0000",
       "minecraft:husk": "2024-12-25 18:50:02 +0000",
       "minecraft:zombie": "2024-12-25 18:53:53 +0000",
@@ -751,6 +758,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2024-12-25 18:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-12-25 21:58:51 +0000"
     },
     "done": true
   },
@@ -1100,6 +1113,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-25 19:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-25 21:42:56 +0000"
     },
     "done": true
   },

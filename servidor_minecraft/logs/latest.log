@@ -487,3 +487,71 @@
 [25Dec2024 21:33:29.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> pero toy vivo
 [25Dec2024 21:35:46.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElpapuElMaster moved too quickly! 9.21400018084023,2.024424088213685,-3.9629951779930934
 [25Dec2024 21:36:31.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> más necesitaremos
+[25Dec2024 21:41:18.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VantaBLACK_mc moved too quickly! -5.134130986634773,1.4318736602695026,8.780420372502704
+[25Dec2024 21:41:27.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1213, y=-55, z=784} BlockPos{x=1213, y=-55, z=783}
+[25Dec2024 21:42:16.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> el ping de faustino
+[25Dec2024 21:42:20.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> está a la decadencia
+[25Dec2024 21:42:25.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> XDD
+[25Dec2024 21:42:35.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <VantaBLACK_mc> wtf recien estaba bien bld
+[25Dec2024 21:42:52.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> el mio esta peor q en la decadencia v,:
+[25Dec2024 21:43:06.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> tengo 12 diamantes v:
+[25Dec2024 21:43:45.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VantaBLACK_mc has made the advancement [The Andesite Age]
+[25Dec2024 21:43:51.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> q hijo de
+[25Dec2024 21:44:03.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> q hdp v,:
+[25Dec2024 21:44:06.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <VantaBLACK_mc> me voy a hacer una granja de piedra
+[25Dec2024 21:44:21.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> Q hijo de 2x
+[25Dec2024 21:44:28.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> XDD
+[25Dec2024 21:44:30.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <VantaBLACK_mc> pero no tengo lava
+[25Dec2024 21:44:40.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> gracias por la data socio
+[25Dec2024 21:44:45.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> ahora estamos en ventaga
+[25Dec2024 21:45:02.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> kiero pedir algo pero m da penita v,:
+[25Dec2024 21:45:14.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> soy muy penudo y tambien m da verguenza td v,:
+[25Dec2024 21:45:43.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> Adonde estás crack?
+[25Dec2024 21:45:48.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> noc XD
+[25Dec2024 21:45:55.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> ;V
+[25Dec2024 21:46:17.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <VantaBLACK_mc> como puede ser que yo solo tengo mejores cosas q ustedes que son 2?
+[25Dec2024 21:47:21.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> voy arriba asi puedo verte
+[25Dec2024 21:47:37.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElpapuElMaster has made the advancement [Cover Me with Diamonds]
+[25Dec2024 21:47:55.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <VantaBLACK_mc> regalo acha de diamante
+[25Dec2024 21:49:11.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VantaBLACK_mc moved too quickly! 4.836120906787187,3.249187078744683,8.468151330101136
+[25Dec2024 21:50:12.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gokulegana10034 lost connection: Timed out
+[25Dec2024 21:50:12.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gokulegana10034 left the game
+[25Dec2024 21:50:21.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> q macana
+[25Dec2024 21:51:36.680] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66b13918
+[25Dec2024 21:51:36.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gokulegana10034[/127.28.243.151:51499] logged in with entity id 36789 at (1144.9271051026028, -24.0, 932.3885757562657)
+[25Dec2024 21:51:36.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gokulegana10034 joined the game
+[25Dec2024 21:52:36.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> eh
+[25Dec2024 21:52:37.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> bro
+[25Dec2024 21:52:40.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> q
+[25Dec2024 21:52:43.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> subiste?
+[25Dec2024 21:52:46.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> nop XD
+[25Dec2024 21:52:51.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> ;V
+[25Dec2024 21:52:53.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> espera q encontre algo muy piola
+[25Dec2024 21:53:08.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> un skibidi toilet subterraneo
+[25Dec2024 21:53:22.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> eso seria piola para el alan y el bauti XD
+[25Dec2024 21:53:37.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> no mencione gente desconocida crack
+[25Dec2024 21:53:44.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> xD ok XD
+[25Dec2024 21:53:51.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> bro pero si los conoces v:
+[25Dec2024 21:53:56.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> yo si
+[25Dec2024 21:54:02.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> ahh claro XD
+[25Dec2024 21:54:51.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> >;)
+[25Dec2024 21:55:14.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gokulegana10034 has made the advancement [Eye Spy]
+[25Dec2024 21:55:15.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <VantaBLACK_mc> regalo acha de diamante
+[25Dec2024 21:55:25.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <VantaBLACK_mc> queeeee_
+[25Dec2024 21:55:26.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> a mi me vale
+[25Dec2024 21:55:27.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> adivinen q
+[25Dec2024 21:55:38.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <VantaBLACK_mc> encontraste la stronghold?
+[25Dec2024 21:55:43.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> se XD
+[25Dec2024 21:55:49.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> q crack
+[25Dec2024 21:56:24.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> mandame coordenadas al privado
+[25Dec2024 21:56:47.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> pera XD
+[25Dec2024 21:58:11.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> casi muero XD
+[25Dec2024 21:58:37.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gokulegana10034> encontre el portal
+[25Dec2024 21:58:49.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> bien
+[25Dec2024 21:59:18.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElpapuElMaster moved too quickly! 8.433885481395691,1.5061351021062137,-5.572099960678429
+[25Dec2024 21:59:25.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gokulegana10034 lost connection: Disconnected
+[25Dec2024 21:59:25.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gokulegana10034 left the game
+[25Dec2024 21:59:29.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElpapuElMaster> ;V
+[25Dec2024 21:59:37.981] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5896c1c
+[25Dec2024 21:59:37.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gokulegana10034[/127.28.243.151:43689] logged in with entity id 40205 at (1099.3751330228795, -31.0, 969.482179095776)
+[25Dec2024 21:59:37.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gokulegana10034 joined the game

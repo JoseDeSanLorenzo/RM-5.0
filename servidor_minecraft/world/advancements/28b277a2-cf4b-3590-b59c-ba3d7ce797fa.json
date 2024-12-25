@@ -416,18 +416,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-25 21:13:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-25 21:13:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-25 20:59:45 +0000"
@@ -437,6 +425,18 @@
   "create:recipes/create.palettes/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-25 21:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-25 21:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-25 21:13:10 +0000"
     },
     "done": true
   },
@@ -792,6 +792,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-25 21:04:26 +0000",
       "minecraft:creeper": "2024-12-25 21:16:31 +0000",
+      "minecraft:silverfish": "2024-12-25 21:56:24 +0000",
       "minecraft:zombie": "2024-12-25 21:08:01 +0000",
       "minecraft:drowned": "2024-12-25 20:12:13 +0000"
     },
@@ -809,15 +810,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-25 20:59:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-25 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-25 20:59:45 +0000"
     },
     "done": true
   },
@@ -893,15 +894,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-12-25 21:28:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-25 20:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-25 21:28:26 +0000"
     },
     "done": true
   },
@@ -920,6 +921,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-25 20:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-25 21:55:14 +0000"
     },
     "done": true
   },
@@ -1295,15 +1302,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-25 21:13:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-25 21:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-25 21:13:10 +0000"
     },
     "done": true
   },
@@ -1536,15 +1543,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2024-12-25 21:23:50 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/short_scope": {
     "criteria": {
       "has_redstone": "2024-12-25 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-25 21:23:50 +0000"
     },
     "done": true
   },
